@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "Unity Reference: Search Selection",
+        "command": "unity_reference_search_selection"
+    },
+    {
+        "caption": "Unity Reference: Open Function Reference",
+        "command": "unity_reference_open_selection"
+    },
+    {
+        "caption": "Unity Reference: Search from Input",
+        "command": "unity_reference_search_from_input"
+    }
+]

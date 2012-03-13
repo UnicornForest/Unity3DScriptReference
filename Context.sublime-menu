@@ -1,0 +1,10 @@
+[
+    {
+        "command": "unity_reference_search_selection",
+        "caption": "Search Unity Reference"
+    },
+    {
+        "command": "unity_reference_open_selection",
+        "caption": "Unity Class/Function Lookup"
+    }
+]

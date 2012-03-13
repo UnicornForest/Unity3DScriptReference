@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "Unity3D Script Reference",
+                "mnemonic": "f",
+                "id": "unity_reference",
+                "children":
+                [
+                    {
+                        "command": "unity_reference_search_selection",
+                        "caption": "Search Selection"
+                    },
+                    {
+                        "command": "unity_reference_search_from_input",
+                        "caption": "Search From Input"
+                    }
+                ]
+            }
+        ]
+    }
+]   
